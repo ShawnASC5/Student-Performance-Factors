@@ -9,13 +9,13 @@ The dataset (`dataset.csv`) contains numerical and categorical variables, some o
 **Key Features:**
 - Student demographics
 - Academic performance metrics
-- Social and economic factors
+- Social and economic factors 
 - Dropout, graduate, or enrollment status
 
 ## Installation & Setup
 ### Prerequisites
 Ensure you have Python installed along with the required libraries.
 
-Install dependencies using:
+Install dependencies using: 
 ```bash
 pip install pandas numpy matplotlib seaborn
